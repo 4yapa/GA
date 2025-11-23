@@ -1,0 +1,330 @@
+{
+  "timestamp": "2025-11-23T16:29:43.486105",
+  "processing_stats": {
+    "total_posts_processed": 200,
+    "total_entities_extracted": 526,
+    "total_triples_extracted": 355,
+    "entity_type_counts": {
+      "ECONOMIC_SECTOR": 86,
+      "POLICY": 83,
+      "PRODUCT": 41,
+      "PERSON": 63,
+      "PERCENTAGE": 12,
+      "ORGANIZATION": 66,
+      "MONEY": 20,
+      "LOCATION": 135,
+      "TARIFF_RATE": 20
+    },
+    "relation_type_counts": {
+      "IMPACTS": 16,
+      "ASSOCIATED_WITH": 22,
+      "MENTIONED_WITH": 127,
+      "APPLIES_TO": 12,
+      "ANNOUNCES": 28,
+      "SUPPORTS": 10,
+      "TARGETS": 10,
+      "NEGOTIATES": 39,
+      "RELATED_TO": 24,
+      "HAS_SECTOR": 2,
+      "OPERATES_IN": 14,
+      "OPPOSES": 14,
+      "REPORTS": 5,
+      "IMPORTS": 12,
+      "AFFECTS": 14,
+      "EXPORTS": 5,
+      "PRODUCES": 1
+    },
+    "posts_with_entities": 199,
+    "posts_with_relations": 191
+  },
+  "knowledge_graph_stats": {
+    "num_nodes": 73,
+    "num_edges": 355,
+    "num_triples": 355,
+    "num_relations": 17,
+    "density": 0.06754185692541857,
+    "is_connected": false,
+    "num_weakly_connected_components": 2,
+    "largest_component_size": 65,
+    "avg_degree": 9.726027397260275,
+    "max_degree": 29,
+    "avg_in_degree": 4.863013698630137,
+    "avg_out_degree": 4.863013698630137
+  },
+  "entity_types": {
+    "POLICY": 9,
+    "PRODUCT": 4,
+    "PERSON": 7,
+    "ECONOMIC_SECTOR": 10,
+    "PERCENTAGE": 6,
+    "ORGANIZATION": 11,
+    "MONEY": 6,
+    "LOCATION": 14,
+    "TARIFF_RATE": 6
+  },
+  "relation_types": {
+    "IMPACTS": 16,
+    "MENTIONED_WITH": 127,
+    "AFFECTS": 14,
+    "ASSOCIATED_WITH": 22,
+    "NEGOTIATES": 39,
+    "APPLIES_TO": 12,
+    "SUPPORTS": 10,
+    "ANNOUNCES": 28,
+    "IMPORTS": 12,
+    "RELATED_TO": 24,
+    "TARGETS": 10,
+    "HAS_SECTOR": 2,
+    "EXPORTS": 5,
+    "PRODUCES": 1,
+    "OPERATES_IN": 14,
+    "OPPOSES": 14,
+    "REPORTS": 5
+  },
+  "top_entities_by_degree": [
+    [
+      "Biden",
+      29
+    ],
+    [
+      "manufacturing",
+      27
+    ],
+    [
+      "Trump",
+      26
+    ],
+    [
+      "Automotive",
+      24
+    ],
+    [
+      "car",
+      24
+    ],
+    [
+      "aluminum",
+      23
+    ],
+    [
+      "China",
+      22
+    ],
+    [
+      "USA",
+      21
+    ],
+    [
+      "India",
+      20
+    ],
+    [
+      "tariff policy",
+      19
+    ],
+    [
+      "NAFTA",
+      18
+    ],
+    [
+      "Japan",
+      18
+    ],
+    [
+      "USMCA",
+      17
+    ],
+    [
+      "BBC",
+      16
+    ],
+    [
+      "trade agreement",
+      16
+    ],
+    [
+      "Germany",
+      15
+    ],
+    [
+      "UK",
+      15
+    ],
+    [
+      "cars",
+      15
+    ],
+    [
+      "trade deal",
+      14
+    ],
+    [
+      "Steel",
+      14
+    ]
+  ],
+  "top_entities_by_pagerank": [
+    [
+      "trade agreement",
+      0.06258691353200949
+    ],
+    [
+      "USA",
+      0.052290290688095244
+    ],
+    [
+      "car",
+      0.0491617727036869
+    ],
+    [
+      "manufacturing",
+      0.04473483628098484
+    ],
+    [
+      "20% tariff",
+      0.028797306895962174
+    ],
+    [
+      "$100 billion",
+      0.025324369398632175
+    ],
+    [
+      "UK",
+      0.024323475244307877
+    ],
+    [
+      "cars",
+      0.02297560242919993
+    ],
+    [
+      "Mexico",
+      0.02287465739969643
+    ],
+    [
+      "China",
+      0.021342319894186793
+    ],
+    [
+      "EU",
+      0.02099755169054167
+    ],
+    [
+      "steel",
+      0.02058913005917081
+    ],
+    [
+      "$50 billion",
+      0.01996554766281875
+    ],
+    [
+      "India",
+      0.018467217423663647
+    ],
+    [
+      "MAGA",
+      0.01807633046453798
+    ],
+    [
+      "Japan",
+      0.018062614108132265
+    ],
+    [
+      "Canada",
+      0.01738392531012365
+    ],
+    [
+      "$300 billion",
+      0.01724846047166194
+    ],
+    [
+      "solar panels",
+      0.016295005188414223
+    ],
+    [
+      "Germany",
+      0.016066439030840426
+    ]
+  ],
+  "top_entities_by_betweenness": [
+    [
+      "China",
+      0.048555543360155336
+    ],
+    [
+      "solar panels",
+      0.03727418641634328
+    ],
+    [
+      "cars",
+      0.033492159517428774
+    ],
+    [
+      "aluminum",
+      0.027130055970500597
+    ],
+    [
+      "Mexico",
+      0.0255536586522502
+    ],
+    [
+      "UK",
+      0.023458344053483515
+    ],
+    [
+      "India",
+      0.019968424514820535
+    ],
+    [
+      "Germany",
+      0.015738517775247957
+    ],
+    [
+      "steel",
+      0.011648829591041689
+    ],
+    [
+      "MAGA",
+      0.010204747000521649
+    ],
+    [
+      "tariff policy",
+      0.009780907668231613
+    ],
+    [
+      "EU",
+      0.007783735258880248
+    ],
+    [
+      "Canada",
+      0.006938869468212193
+    ],
+    [
+      "soybeans",
+      0.005950052164840897
+    ],
+    [
+      "Japan",
+      0.005595760333747077
+    ],
+    [
+      "USMCA",
+      0.0030619770315296413
+    ],
+    [
+      "Section 232",
+      0.002976947643476227
+    ],
+    [
+      "electronics",
+      0.0028536991254472614
+    ],
+    [
+      "NAFTA",
+      0.0019162135618225097
+    ],
+    [
+      "USA",
+      0.000782472613458529
+    ]
+  ]
+}
