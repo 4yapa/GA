@@ -1,0 +1,356 @@
+Subject,Predicate,Object
+USMCA,IMPACTS,solar panels
+Biden,ASSOCIATED_WITH,America First
+Automotive,MENTIONED_WITH,20%
+Automotive,MENTIONED_WITH,car
+20%,APPLIES_TO,car
+Forbes,MENTIONED_WITH,$100 billion
+Germany,ANNOUNCES,20% tariff
+Automotive,MENTIONED_WITH,25%
+Automotive,MENTIONED_WITH,car
+25%,APPLIES_TO,car
+Forbes,SUPPORTS,MAGA
+Forbes,SUPPORTS,tariff policy
+MAGA,TARGETS,China
+tariff policy,TARGETS,China
+Biden,NEGOTIATES,trade deal
+Biden,NEGOTIATES,Tokyo
+Forbes,MENTIONED_WITH,$200 billion
+India,RELATED_TO,USA
+China,HAS_SECTOR,steel
+Trudeau,NEGOTIATES,China
+Steel,MENTIONED_WITH,aluminum
+Steel,MENTIONED_WITH,UK
+aluminum,MENTIONED_WITH,UK
+Canada,ANNOUNCES,20% tariff
+BBC,MENTIONED_WITH,soybeans
+BBC,MENTIONED_WITH,agriculture
+soybeans,MENTIONED_WITH,agriculture
+Mexico,ANNOUNCES,20% tariff
+Biden,ASSOCIATED_WITH,America First
+steel,MENTIONED_WITH,Mexico
+Al Jazeera,OPERATES_IN,India
+Al Jazeera,OPERATES_IN,USA
+Al Jazeera,RELATED_TO,trade agreement
+India,RELATED_TO,USA
+India,RELATED_TO,trade agreement
+USA,RELATED_TO,trade agreement
+White House,OPPOSES,NAFTA
+White House,OPPOSES,trade agreement
+Wall Street Journal,MENTIONED_WITH,aluminum
+CNN,REPORTS,China
+Trump,ANNOUNCES,15% tariff
+Trump,ANNOUNCES,$200 billion
+India,IMPORTS,$200 billion
+Wall Street Journal,MENTIONED_WITH,steel
+Steel,MENTIONED_WITH,aluminum
+Steel,MENTIONED_WITH,EU
+aluminum,MENTIONED_WITH,EU
+Trump,ANNOUNCES,30% tariff
+Trump,ANNOUNCES,$100 billion
+China,IMPORTS,$100 billion
+USMCA,MENTIONED_WITH,NAFTA
+USMCA,AFFECTS,manufacturing
+NAFTA,AFFECTS,manufacturing
+World Bank,MENTIONED_WITH,$50 billion
+Biden,NEGOTIATES,trade deal
+Biden,NEGOTIATES,Brussels
+Trudeau,NEGOTIATES,trade deal
+Trudeau,NEGOTIATES,Brussels
+Biden,NEGOTIATES,trade deal
+Biden,NEGOTIATES,Beijing
+Trudeau,NEGOTIATES,trade deal
+Trudeau,NEGOTIATES,Beijing
+USMCA,MENTIONED_WITH,NAFTA
+USMCA,AFFECTS,manufacturing
+NAFTA,AFFECTS,manufacturing
+Trump,ANNOUNCES,25% tariff
+Trump,ANNOUNCES,$250 billion
+Germany,IMPORTS,$250 billion
+Forbes,MENTIONED_WITH,$100 billion
+Steel,MENTIONED_WITH,aluminum
+Steel,MENTIONED_WITH,Canada
+aluminum,MENTIONED_WITH,Canada
+Canada,EXPORTS,cars
+Wall Street Journal,MENTIONED_WITH,soybeans
+Trump,ANNOUNCES,25% tariff
+Trump,ANNOUNCES,$100 billion
+Germany,IMPORTS,$100 billion
+steel,MENTIONED_WITH,EU
+Xi Jinping,NEGOTIATES,Canada
+India,RELATED_TO,USA
+Biden,ASSOCIATED_WITH,India
+Biden,MENTIONED_WITH,15% tariff
+India,MENTIONED_WITH,15% tariff
+China,RELATED_TO,USA
+BBC,MENTIONED_WITH,cars
+BBC,MENTIONED_WITH,manufacturing
+cars,MENTIONED_WITH,manufacturing
+Macron,NEGOTIATES,India
+WTO,OPERATES_IN,Japan
+WTO,OPERATES_IN,Mexico
+WTO,OPERATES_IN,EU
+Johnson,ASSOCIATED_WITH,EU
+Biden,ASSOCIATED_WITH,India
+Biden,MENTIONED_WITH,20% tariff
+India,MENTIONED_WITH,20% tariff
+Forbes,SUPPORTS,MAGA
+Forbes,SUPPORTS,tariff policy
+MAGA,TARGETS,UK
+tariff policy,TARGETS,UK
+Automotive,MENTIONED_WITH,20%
+Automotive,MENTIONED_WITH,car
+20%,APPLIES_TO,car
+Manufacturing,MENTIONED_WITH,USMCA
+Al Jazeera,OPERATES_IN,Japan
+Al Jazeera,OPERATES_IN,USA
+Al Jazeera,RELATED_TO,trade agreement
+Japan,RELATED_TO,USA
+Japan,RELATED_TO,trade agreement
+USA,RELATED_TO,trade agreement
+Section 232,IMPACTS,cars
+tariff policy,IMPACTS,agriculture
+Biden,ASSOCIATED_WITH,America First
+tariff policy,IMPACTS,technology
+cars,MENTIONED_WITH,UK
+Al Jazeera,OPERATES_IN,China
+Al Jazeera,OPERATES_IN,USA
+Al Jazeera,RELATED_TO,trade agreement
+China,RELATED_TO,USA
+China,RELATED_TO,trade agreement
+USA,RELATED_TO,trade agreement
+Automotive,MENTIONED_WITH,15%
+Automotive,MENTIONED_WITH,car
+15%,APPLIES_TO,car
+Section 232,IMPACTS,solar panels
+Mexico,EXPORTS,cars
+Trump,ANNOUNCES,30% tariff
+Trump,ANNOUNCES,$300 billion
+EU,IMPORTS,$300 billion
+Xi Jinping,MENTIONED_WITH,solar panels
+Xi Jinping,ASSOCIATED_WITH,China
+solar panels,MENTIONED_WITH,China
+Automotive,MENTIONED_WITH,30%
+Automotive,MENTIONED_WITH,car
+30%,APPLIES_TO,car
+Steel,MENTIONED_WITH,aluminum
+Steel,MENTIONED_WITH,Japan
+aluminum,MENTIONED_WITH,Japan
+Trump,ANNOUNCES,35% tariff
+Trump,ANNOUNCES,$200 billion
+China,IMPORTS,$200 billion
+solar panels,MENTIONED_WITH,EU
+CNN,REPORTS,China
+BBC,MENTIONED_WITH,electronics
+BBC,MENTIONED_WITH,manufacturing
+electronics,MENTIONED_WITH,manufacturing
+WTO,SUPPORTS,MAGA
+WTO,SUPPORTS,tariff policy
+MAGA,TARGETS,Mexico
+tariff policy,TARGETS,Mexico
+UK,RELATED_TO,USA
+Trudeau,ASSOCIATED_WITH,America First
+Automotive,MENTIONED_WITH,35%
+Automotive,MENTIONED_WITH,car
+35%,APPLIES_TO,car
+aluminum,MENTIONED_WITH,Germany
+WTO,OPERATES_IN,Japan
+Germany,RELATED_TO,USA
+Automotive,MENTIONED_WITH,15%
+Automotive,MENTIONED_WITH,car
+15%,APPLIES_TO,car
+aluminum,MENTIONED_WITH,Japan
+World Bank,MENTIONED_WITH,$250 billion
+Automotive,MENTIONED_WITH,15%
+Automotive,MENTIONED_WITH,car
+15%,APPLIES_TO,car
+UK,RELATED_TO,USA
+Biden,NEGOTIATES,trade deal
+Biden,NEGOTIATES,Ottawa
+BBC,MENTIONED_WITH,soybeans
+BBC,MENTIONED_WITH,manufacturing
+soybeans,MENTIONED_WITH,manufacturing
+USMCA,MENTIONED_WITH,NAFTA
+USMCA,AFFECTS,manufacturing
+NAFTA,AFFECTS,manufacturing
+tariff policy,IMPACTS,energy
+Manufacturing,MENTIONED_WITH,MAGA
+Xi Jinping,ASSOCIATED_WITH,Germany
+Modi,ASSOCIATED_WITH,America First
+India,RELATED_TO,USA
+BBC,MENTIONED_WITH,aluminum
+BBC,MENTIONED_WITH,energy
+aluminum,MENTIONED_WITH,energy
+Trump,NEGOTIATES,India
+Johnson,NEGOTIATES,UK
+WTO,OPERATES_IN,Mexico
+USMCA,MENTIONED_WITH,NAFTA
+USMCA,AFFECTS,manufacturing
+NAFTA,AFFECTS,manufacturing
+Wall Street Journal,MENTIONED_WITH,cars
+USMCA,MENTIONED_WITH,NAFTA
+USMCA,AFFECTS,manufacturing
+NAFTA,AFFECTS,manufacturing
+UK,EXPORTS,solar panels
+Trump,NEGOTIATES,Japan
+Biden,NEGOTIATES,trade deal
+Biden,NEGOTIATES,Beijing
+Wall Street Journal,MENTIONED_WITH,soybeans
+Trump,ANNOUNCES,15% tariff
+Trump,ANNOUNCES,$50 billion
+Mexico,IMPORTS,$50 billion
+NAFTA,IMPACTS,aluminum
+White House,OPPOSES,USMCA
+White House,OPPOSES,trade agreement
+Wall Street Journal,MENTIONED_WITH,steel
+Trump,ANNOUNCES,30% tariff
+Trump,ANNOUNCES,$300 billion
+Canada,IMPORTS,$300 billion
+Automotive,MENTIONED_WITH,25%
+Automotive,MENTIONED_WITH,car
+25%,APPLIES_TO,car
+Trump,ANNOUNCES,15% tariff
+Trump,ANNOUNCES,$50 billion
+India,IMPORTS,$50 billion
+Modi,NEGOTIATES,India
+Modi,NEGOTIATES,China
+Johnson,ASSOCIATED_WITH,America First
+solar panels,MENTIONED_WITH,Germany
+tariff policy,IMPACTS,manufacturing
+tariff policy,IMPACTS,manufacturing
+World Bank,SUPPORTS,MAGA
+World Bank,SUPPORTS,tariff policy
+MAGA,TARGETS,UK
+tariff policy,TARGETS,UK
+solar panels,MENTIONED_WITH,UK
+Johnson,NEGOTIATES,Canada
+China,PRODUCES,soybeans
+Xi Jinping,MENTIONED_WITH,cars
+Xi Jinping,ASSOCIATED_WITH,Canada
+cars,MENTIONED_WITH,Canada
+EU,EXPORTS,steel
+Johnson,ASSOCIATED_WITH,Canada
+Johnson,MENTIONED_WITH,20% tariff
+Canada,MENTIONED_WITH,20% tariff
+tariff policy,IMPACTS,energy
+China,EXPORTS,steel
+UK,RELATED_TO,USA
+White House,OPPOSES,Section 232
+White House,OPPOSES,trade agreement
+Steel,MENTIONED_WITH,aluminum
+Steel,MENTIONED_WITH,Canada
+aluminum,MENTIONED_WITH,Canada
+Trump,ANNOUNCES,20% tariff
+Trump,ANNOUNCES,$50 billion
+Japan,IMPORTS,$50 billion
+CNN,REPORTS,Japan
+electronics,MENTIONED_WITH,India
+IMF,MENTIONED_WITH,$100 billion
+Section 232,IMPACTS,electronics
+Reuters,MENTIONED_WITH,$100 billion
+BBC,MENTIONED_WITH,cars
+BBC,MENTIONED_WITH,manufacturing
+cars,MENTIONED_WITH,manufacturing
+White House,OPPOSES,NAFTA
+White House,OPPOSES,trade agreement
+tariff policy,IMPACTS,manufacturing
+Biden,NEGOTIATES,trade deal
+Biden,NEGOTIATES,Washington
+Macron,NEGOTIATES,trade deal
+Macron,NEGOTIATES,Washington
+Trudeau,ASSOCIATED_WITH,America First
+Johnson,MENTIONED_WITH,solar panels
+Johnson,ASSOCIATED_WITH,Mexico
+solar panels,MENTIONED_WITH,Mexico
+Biden,NEGOTIATES,trade deal
+Biden,NEGOTIATES,Washington
+Modi,NEGOTIATES,trade deal
+Modi,NEGOTIATES,Washington
+Steel,MENTIONED_WITH,aluminum
+Steel,MENTIONED_WITH,Germany
+aluminum,MENTIONED_WITH,Germany
+Johnson,ASSOCIATED_WITH,America First
+Automotive,MENTIONED_WITH,10%
+Automotive,MENTIONED_WITH,car
+10%,APPLIES_TO,car
+EU,RELATED_TO,USA
+Section 232,IMPACTS,cars
+USMCA,MENTIONED_WITH,NAFTA
+USMCA,AFFECTS,manufacturing
+NAFTA,AFFECTS,manufacturing
+India,ANNOUNCES,30% tariff
+Wall Street Journal,MENTIONED_WITH,electronics
+Johnson,MENTIONED_WITH,cars
+Johnson,ASSOCIATED_WITH,India
+cars,MENTIONED_WITH,India
+Wall Street Journal,MENTIONED_WITH,steel
+Trump,ANNOUNCES,30% tariff
+Trump,ANNOUNCES,$150 billion
+Germany,IMPORTS,$150 billion
+Trump,ANNOUNCES,10% tariff
+Trump,ANNOUNCES,$100 billion
+Japan,IMPORTS,$100 billion
+Xi Jinping,ASSOCIATED_WITH,Germany
+Xi Jinping,MENTIONED_WITH,20% tariff
+Germany,MENTIONED_WITH,20% tariff
+CNN,REPORTS,EU
+China,HAS_SECTOR,aluminum
+CNN,REPORTS,Germany
+WTO,OPERATES_IN,UK
+Steel,MENTIONED_WITH,aluminum
+Steel,MENTIONED_WITH,Germany
+aluminum,MENTIONED_WITH,Germany
+Macron,ASSOCIATED_WITH,India
+Bloomberg,SUPPORTS,MAGA
+Bloomberg,SUPPORTS,tariff policy
+MAGA,TARGETS,Japan
+tariff policy,TARGETS,Japan
+White House,OPPOSES,Section 301
+White House,OPPOSES,trade agreement
+tariff policy,IMPACTS,agriculture
+IMF,MENTIONED_WITH,$150 billion
+Wall Street Journal,MENTIONED_WITH,solar panels
+tariff policy,IMPACTS,technology
+Japan,RELATED_TO,USA
+Biden,NEGOTIATES,China
+Biden,NEGOTIATES,trade deal
+Biden,NEGOTIATES,Washington
+Johnson,NEGOTIATES,trade deal
+Johnson,NEGOTIATES,Washington
+Automotive,MENTIONED_WITH,15%
+Automotive,MENTIONED_WITH,car
+15%,APPLIES_TO,car
+BBC,MENTIONED_WITH,solar panels
+BBC,MENTIONED_WITH,energy
+solar panels,MENTIONED_WITH,energy
+Biden,ASSOCIATED_WITH,Japan
+Biden,ASSOCIATED_WITH,America First
+Japan,RELATED_TO,USA
+Biden,NEGOTIATES,trade deal
+Biden,NEGOTIATES,Beijing
+WTO,OPERATES_IN,UK
+Section 232,IMPACTS,steel
+USMCA,MENTIONED_WITH,NAFTA
+USMCA,AFFECTS,manufacturing
+NAFTA,AFFECTS,manufacturing
+China,RELATED_TO,USA
+White House,OPPOSES,Section 301
+White House,OPPOSES,trade agreement
+aluminum,MENTIONED_WITH,Canada
+Biden,ASSOCIATED_WITH,America First
+Macron,NEGOTIATES,China
+BBC,MENTIONED_WITH,steel
+BBC,MENTIONED_WITH,manufacturing
+steel,MENTIONED_WITH,manufacturing
+aluminum,MENTIONED_WITH,Japan
+White House,OPPOSES,NAFTA
+White House,OPPOSES,trade agreement
+Wall Street Journal,MENTIONED_WITH,steel
+Manufacturing,MENTIONED_WITH,MAGA
+Wall Street Journal,MENTIONED_WITH,cars
+Automotive,MENTIONED_WITH,30%
+Automotive,MENTIONED_WITH,car
+30%,APPLIES_TO,car
+electronics,MENTIONED_WITH,Mexico
+electronics,MENTIONED_WITH,EU
+WTO,OPERATES_IN,China
